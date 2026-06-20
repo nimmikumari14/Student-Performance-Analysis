@@ -19,4 +19,4 @@ Analyze student academic performance and identify factors affecting scores.
 - Reading and writing scores showed strong correlation.
 
 ## Author
-Nimmi Singh
+Nimmi Kumari
